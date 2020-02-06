@@ -1,0 +1,2 @@
+"SampleName","Marker","Allele1","Allele2"
+"K20","M1","12","12"

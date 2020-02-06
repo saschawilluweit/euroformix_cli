@@ -1,0 +1,11 @@
+Panel	Marker	Allele	Size	Size.Min	Size.Max	Virtual	Color	Repeat	Marker.Min	Marker.Max	Offset	Short.Name	Full.Name	Gender.Marker	Quality.Sensor
+Panel_TestKit_v1	M1	7	16.5	17	17.5	0	blue	4	10	55	10	TESTKIT1	Test Kit 1	FALSE	FALSE
+Panel_TestKit_v1	M1	8	20.5	21	21.5	0	blue	4	10	55	10	TESTKIT1	Test Kit 1	FALSE	FALSE
+Panel_TestKit_v1	M1	9	24.5	25	25.5	0	blue	4	10	55	10	TESTKIT1	Test Kit 1	FALSE	FALSE
+Panel_TestKit_v1	M1	10	28.5	29	29.5	0	blue	4	10	55	10	TESTKIT1	Test Kit 1	FALSE	FALSE
+Panel_TestKit_v1	M1	11	32.5	33	33.5	0	blue	4	10	55	10	TESTKIT1	Test Kit 1	FALSE	FALSE
+Panel_TestKit_v1	M1	12	36.5	37	37.5	0	blue	4	10	55	10	TESTKIT1	Test Kit 1	FALSE	FALSE
+Panel_TestKit_v1	M1	13	40.5	41	41.5	0	blue	4	10	55	10	TESTKIT1	Test Kit 1	FALSE	FALSE
+Panel_TestKit_v1	M1	14	44.5	45	45.5	0	blue	4	10	55	10	TESTKIT1	Test Kit 1	FALSE	FALSE
+Panel_TestKit_v1	M1	15	48.5	49	49.5	0	blue	4	10	55	10	TESTKIT1	Test Kit 1	FALSE	FALSE
+Panel_TestKit_v1	M1	16	52.5	53	53.5	0	blue	4	10	59	10	TESTKIT1	Test Kit 1	FALSE	FALSE

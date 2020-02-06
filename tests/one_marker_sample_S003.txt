@@ -1,0 +1,2 @@
+"Sample Name","Marker","Allele 1","Allele 2","Allele 3","Allele 4","Allele 5","Allele 6","Allele 7","Allele 8","Height 1","Height 2","Height 3","Height 4","Height 5","Height 6","Height 7","Height 8"
+"S003_PCR1","M1","10","11","12","13","14","15","16","","50","686","1944","141","460","22.5","55",""
